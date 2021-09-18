@@ -1,2 +1,6 @@
-# adm-approval
-Abu Dhabi Municipality Approval Services
+# Abu Dhabi Municipality Approval Services
+The <b>Abu Dhabi City Municipality</b> is one of the government service departments that is honored to govern every development and construction process with the directive and vision of megastructures and future development plans in the Emirate of Abu Dhabi through the strict implementation of <a href="https://www.abudhabiapprovals.ae/services/abu-dhabi-municipality-approval" target="_blank"><b>ADM Approval</b></a>. It was established to function and expand public service in building a large-scale urban renaissance that includes but is not limited to general planning for the city, design, construction, and maintenance of modern road networks, lighting systems, implementing sanitation networks, consolidating comprehensive development projects.
+
+<b>AD Approvals</b> team is a licensed engineering company that provides quality engineering solutions to help complete any necessary services, requirements, and submissions for certain permits and licenses needed to acquire ADM Approval related to engineering projects of our clients.
+
+<a href="https://www.abudhabiapprovals.ae/services/abu-dhabi-civil-defence-approval" target="_blank"><b>Abu Dhabi Civil Defence</b></a>
